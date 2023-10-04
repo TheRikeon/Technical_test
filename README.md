@@ -1,4 +1,4 @@
-# Technical test for Hermes Security Solutions 
+# Technical test for job application
 
 This repository was created to host the source code of the technical test.
 
